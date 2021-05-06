@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    width: 150px;
+    background-color: #e3e3eb;
+}
+
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.logout{
+    margin: 20px;
+}

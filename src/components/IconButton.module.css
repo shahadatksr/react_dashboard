@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height:70px;
+    margin: 5px;
+    border-radius: 10px;
+    /* background-color:#c3c5d4; */
+    padding: 20px;
+    color: #47476b;
+    
+}
+
+.icon{
+    width: 35px;
+    /* color: gray; */
+    filter: invert(25%) sepia(9%) saturate(2294%) hue-rotate(201deg) brightness(97%) contrast(84%);
+}
+
+.active{
+    background-color: #c3c5d4;
+}

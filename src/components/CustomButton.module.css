@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    color: #9a97a0;
+    font-size: 13px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.icon img{
+    width: 30px;
+    border-radius: 50%;
+    background-color: #e3e3eb;
+    padding: 10px;
+}
+
+.main span{
+    font-size: 35px;
+    font-weight: bold;
+    color: #9a97a0;
+}
